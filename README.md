@@ -58,7 +58,6 @@ I’m **Rabia Cırık**, a software engineering student with a strong interest i
 
 * 📧 Email: **[rabiacirikk@gmail.com](mailto:rabiacirikk@gmail.com)**
 * 💼 LinkedIn: [linkedin.com/in/rabia-cirik-9607a0295](https://www.linkedin.com/in/rabia-cirik-9607a0295)
-* 🐙 GitHub: [github.com/rabiacirik](https://github.com/rabiacirik)
 
 ---
 
